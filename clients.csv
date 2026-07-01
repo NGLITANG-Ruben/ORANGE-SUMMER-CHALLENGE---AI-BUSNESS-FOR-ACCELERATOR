@@ -1,7 +1,7 @@
 client_id,anciennete_mois,age,region,type_offre,moyen_paiement,conso_data_go,conso_voix_min,conso_sms,nb_contacts_support,nb_incidents_reseau,churn
 64,60,42.0,Île-de-France,Multi-play,Carte bancaire,23.1,0.0,19.0,0,0,0
 678,43,60.0,Bretagne,Internet Seul,Prélèvement,,189.0,13.0,1,0,0
-141,33,68.0,Nouvelle-Aquitaine,Multi-play,Carte bancaire,6.1,158.0,6.0,0,0,0
+141,33,68.0,Nouvelle-Aquitaine,Multi-play,Carte bancaire,6.1,158.0,6.0,0,0,0 
 54,3,50.0,Auvergne-Rhône-Alpes,Multi-play,Prélèvement,13.7,191.0,9.0,0,0,0
 826,4,51.0,Grand Est,Mobile Seul,Prélèvement,14.9,215.0,28.0,1,0,1
 871,47,,Bretagne,Mobile Seul,Prélèvement,13.2,208.0,15.0,0,1,0
